@@ -1,12 +1,27 @@
 body {
 background-color: #edd273;
+
      }
 
-h1 {
-        color: white;
-        text-align: center;
+header{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+
 }
 
-        p {
-        font-family: verdana;
-        font-size: 20px;
+p {
+    font-family: arial;
+    font-size: 20px;
+}
+
+article {
+    margin: auto;
+    width: 35%;
+    position: relative;
+    font-family: arial;
+
+}
+
