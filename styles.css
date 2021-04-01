@@ -13,7 +13,7 @@ header{
 }
 
 p {
-    font-family: arial;
+    font-family: Arial;
     font-size: 20px;
 }
 
@@ -21,7 +21,7 @@ article {
     margin: auto;
     width: 35%;
     position: relative;
-    font-family: arial;
+    font-family: Arial;
 
 }
 
@@ -39,7 +39,7 @@ article {
   margin-left: 6.25%;
   left: 0px;
   gap: 1rem;
-  grid-template-columns: repeat( minmax(240px, 1fr));
+  grid-template-columns: repeat(minmax(240px, 1fr));
   grid-auto-rows: 240px;
 }
 
@@ -51,7 +51,7 @@ article {
   margin-right: 6.25%;
   right: 0px;
   gap: 1rem;
-  grid-template-columns: repeat( minmax(240px, 1fr));
+  grid-template-columns: repeat(minmax(240px, 1fr));
   grid-auto-rows: 240px;
 }
 
