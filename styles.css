@@ -31,7 +31,7 @@ article {
     left: 32.5%;
 }
 
-.porn {
+.images {
 
   display: grid;
   width: 20%;
@@ -43,7 +43,7 @@ article {
   grid-auto-rows: 240px;
 }
 
-.porn2 {
+.images2 {
 
   display: grid;
   width: 20%;
